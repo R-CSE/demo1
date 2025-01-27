@@ -1,2 +1,2 @@
-# demo1
+# Python_ODIN
 first repository
